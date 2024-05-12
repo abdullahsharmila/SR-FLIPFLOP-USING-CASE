@@ -1,4 +1,5 @@
 # SR-FLIPFLOP-USING-CASE
+# EX NO 6
 
 **AIM:**
 
